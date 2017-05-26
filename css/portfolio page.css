@@ -1,0 +1,31 @@
+.s-media {
+	background-image: url(../green.jpg);
+	color: white;
+	border-radius: 10px;
+	height: auto;
+	width: 97.2%;
+	margin-left: 1.4%;
+	margin-bottom: 20px;
+}
+
+.s-media .self {
+	margin-bottom: 300px;
+}
+
+.s-media .col-lg-2 {
+	margin-bottom: 100px;
+}
+
+.project img {
+	border-radius: 5px;
+}
+
+.contact {
+	background-image: url("../purple.jpg");
+	height: auto;
+	color: rgb(150, 150, 150);
+	border-radius: 10px;
+	width: 97.2%;
+	margin-left: 1.4%;
+	margin-bottom: 20px;
+}
